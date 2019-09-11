@@ -1,11 +1,16 @@
-#   Anathi's Portfolio 
+#   **Anathi Gumede** 
 
 ___
 
 Experience
-    
+ * Ceremonial Guardsman
+ * Weather Forecaster  
+ * Adult Education Teacher
+
 Education
 
 Projects
     
-External References 
+_External References_
+<https://www.linkedin.com/in/anathi-gumede-a18985a9//>
+
