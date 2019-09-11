@@ -10,7 +10,7 @@ Experience
  
  * Weather Forecaster
 
-![WxForecasterUSAGHumphreysROK] (https://media.defense.gov/2012/Mar/12/2000170700/-1/-1/0/120313-F-MJ348-001.JPG) 
+![WxForecasterUSAGHumphreysROK](120313-F-MJ348-001.jpeg) 
   
  * Adult Education Teacher
 
