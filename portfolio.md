@@ -29,7 +29,9 @@ Volunteer Work
   1. Veterans Memorial Day Ruck March 2015
   2. NYC Hope Count 2017
   3. South Bronx Community Employment Fair 2018
+#  
 _External References_
+
 <https://www.linkedin.com/in/anathi-gumede-a18985a9//>
 
 
